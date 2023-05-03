@@ -6,7 +6,7 @@
 2. Deploy your application using the webserver.yaml to setup deployment, replicaset, pods and service
    kubectl apply -f webserver.yaml
 
-3. Check your resource
+3. Check your resource /n
 Kubectl get deployments ###all the deployments on the cluster
 kubectl get svc ###all the svc on the cluster
 kubectl get pods ###all the pods on the cluster
